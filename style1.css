@@ -1,0 +1,38 @@
+body{
+    background-image: url("photo-1553481187-be93c21490a9.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+position:absolute;
+left:40%;
+top:10%;
+}
+
+.guess{
+position: absolute;
+left:35%;
+top:30%;
+display: block;
+    padding: 20px 60px;
+    font-size: 1.9rem;
+    border: none;
+    border-radius: 10px;
+    outline: none;
+}
+
+#check-btn{
+    position: absolute;
+left:45%;
+top:55%;
+display: block;
+    padding: 20px 60px;
+    font-size: 1.9rem;
+    border: none;
+    border-radius: 10px;
+    outline: none;
+}
+
